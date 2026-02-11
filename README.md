@@ -1,12 +1,88 @@
-<h1 align="center">Hi 👋, I'm Kevin Bantaran</h1>
-<h3 align="center">A passionate Information Technology Sector</h3>
+<!-- Header -->
+<h1 align="center">Kevin Bantaran</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kevxxp&label=Profile%20views&color=0e75b6&style=flat" alt="kevxxp" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kevin bantaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin bantaran" height="30" width="40" /></a>
+<p align="center">
+  <strong>Frontend Developer • Modern Web Applications • Clean UI Enthusiast</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevxxp&label=Profile%20Views&color=111827&style=for-the-badge" />
+</p>
+
+---
+
+<!-- About -->
+<h3 align="center">About Me</h3>
+
+<p align="center">
+I build modern, responsive, and scalable web applications using clean design principles  
+and efficient backend integration. Focused on performance, usability, and maintainable code.
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres" />
+</p>
+
+---
+
+<!-- Connect -->
+<h3 align="center">Connect</h3>
+
+<p align="center">
+  <a href="<!-- Header -->
+<h1 align="center">Kevin Bantaran</h1>
+
+<p align="center">
+  <strong>Frontend Developer • Modern Web Applications • Clean UI Enthusiast</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevxxp&label=Profile%20Views&color=111827&style=for-the-badge" />
+</p>
+
+---
+
+<!-- About -->
+<h3 align="center">About Me</h3>
+
+<p align="center">
+I build modern, responsive, and scalable web applications using clean design principles  
+and efficient backend integration. Focused on performance, usability, and maintainable code.
+</p>
+
+---
+
+<!-- Tech Stack -->
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,postgres" />
+</p>
+
+---
+
+<!-- Connect -->
+<h3 align="center">Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kevin-bantaran" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+</p>
+" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
+  </a>
+</p>
