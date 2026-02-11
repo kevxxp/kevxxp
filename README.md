@@ -2,7 +2,7 @@
 <h1 align="center">Kevin Bantaran</h1>
 
 <p align="center">
-  <strong>Frontend Developer • Modern Web Applications • Clean UI Enthusiast</strong>
+  <strong> Developer • Modern Web Applications • Clean UI Enthusiast</strong>
 </p>
 
 <p align="center">
