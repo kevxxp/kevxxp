@@ -82,7 +82,6 @@ and efficient backend integration. Focused on performance, usability, and mainta
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
 </p>
-" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
   </a>
 </p>
